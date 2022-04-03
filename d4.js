@@ -39,6 +39,10 @@ value is kept private and for internal use. After creation, all that remains is 
 */
 
 /* WRITE YOUR ANSWER HERE */
+/* Objects are variables too but objects can contain many values. Object is a collection of 'key-value' properties i.e every key has a value and the value is separated from key by using a colon  e.g
+const studentData = {"name" : "Olu",  "age" : 23};  1.e "name" is key and "Olu" is value.
+
+*/
 
 /* EXERCISE 3
  Write the code to execute an addition (a sum) of the numbers 12 and 20.
