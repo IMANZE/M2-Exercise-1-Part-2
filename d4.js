@@ -63,7 +63,7 @@ let x = 12;
 */
 
 /* WRITE YOUR ANSWER HERE */
-
+let name = "Imanze Osalumhese";
 
 /* EXERCISE 6
  Execute a subtraction between the number 4 and the variable x you declared before (which is storing the value 12).
