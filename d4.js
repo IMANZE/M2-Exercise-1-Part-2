@@ -49,7 +49,7 @@ const studentData = {"name" : "Olu",  "age" : 23};  1.e "name" is key and "Olu" 
 */
 
 /* WRITE YOUR ANSWER HERE */
-
+let outcome = 12 + 20;
 
 /* EXERCISE 4
  Create a variable named x and assign to it the number 12.
