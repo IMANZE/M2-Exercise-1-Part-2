@@ -70,7 +70,7 @@ let name = "Imanze Osalumhese";
 */
 
 /* WRITE YOUR ANSWER HERE */
-
+let subResult = 4 - x;
 
 /* EXERCISE 7
 Create two variables: name1 and name2. Assign to name1 the string "john", and to name2 the string "John" (this one has a capital J!)
