@@ -80,10 +80,13 @@ Create two variables: name1 and name2. Assign to name1 the string "john", and to
 */
 
 /* WRITE YOUR ANSWER HERE */
-
+let name1 = "john";
+let name2 = "John";
+console.log(name1 === name2);
+console.log(name1.toLowerCase() === name2.toLowerCase());
 
 
 
 /* WHEN YOU ARE FINISHED
- Upload the .js file on Eduflow before 5PM CET. In the next days we'll also learn how to use GIT!
+ Upload the .js file on Eduflow before 5PM CET. 
 */
