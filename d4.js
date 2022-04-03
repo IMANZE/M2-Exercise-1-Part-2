@@ -17,7 +17,8 @@ ASSIGNMENT RULES
 values in JavaScript that are considered numbers but don’t behave like normal numbers;
 a. Infinity: Any number divided by zero except zero itself.
 b.-Infinity: Any negative number divided by zero except itself.
-c. Not a Number (NaN):  As the name implies, good examples are 0/0, infinity * 0, square root of -1, "Hello"/0 e.tc
+c. Not a Number (NaN):  As the name implies, good examples are 0/0, infinity * 0, square root of -1, "Hello"/0 e.t.c
+Also, there are floating point numbers which are numbers with decimals (e.g. 10.5) and integer which are numbers without decimals (e.g 10)
 
 2. String: This is used to represent  data in text. e.g "Hello", "2" 
 
@@ -39,9 +40,8 @@ value is kept private and for internal use. After creation, all that remains is 
 */
 
 /* WRITE YOUR ANSWER HERE */
-/* Objects are variables too but objects can contain many values. Object is a collection of 'key-value' properties i.e every key has a value and the value is separated from key by using a colon  e.g
-const studentData = {"name" : "Olu",  "age" : 23};  1.e "name" is key and "Olu" is value.
-
+/* Objects are variables too but objects can contain many values. Object is a collection of 'key-value' properties i.e every key has a value and 
+the value is separated from key by using a colon  e.g. const studentData = {"name" : "Olu",  "age" : 23};  1.e "name" is key and "Olu" is value.
 */
 
 /* EXERCISE 3
@@ -84,7 +84,6 @@ let name1 = "john";
 let name2 = "John";
 console.log(name1 === name2);
 console.log(name1.toLowerCase() === name2.toLowerCase());
-
 
 
 /* WHEN YOU ARE FINISHED
