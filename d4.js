@@ -56,7 +56,7 @@ let outcome = 12 + 20;
 */
 
 /* WRITE YOUR ANSWER HERE */
-
+let x = 12;
 
 /* EXERCISE 5
  Create a variable called name and assign to it your name as a string.
