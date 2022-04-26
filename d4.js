@@ -26,7 +26,7 @@ Also, there are floating point numbers which are numbers with decimals (e.g. 10.
 should the executed.
 
 4.Undefined and Null: Undefined and Null are sometimes mistaken to be the same but they are different. Undefined is
-for a value that doesn't exist yet. The variable  has nver been assigned any value. Everytime we declare a new variable, it's 
+for a value that doesn't exist yet. The variable  has never been assigned any value. Everytime we declare a new variable, it's 
 content is undefined while Null represent an empty value, the variable contains nothing.
 
 5. BigInt: has to deal with very large number without limit unlike the number type that has limit.
